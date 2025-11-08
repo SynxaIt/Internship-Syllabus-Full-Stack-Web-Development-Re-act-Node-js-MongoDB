@@ -1,0 +1,30 @@
+/* Simple blog homepage styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+main {
+  padding: 2rem;
+  max-width: 700px;
+  margin: auto;
+}
+
+footer {
+  background-color: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+}
